@@ -9,6 +9,7 @@ Cách chơi
 - Dùng các phím điều hướng điều hướng và cân bằng người trượt tuyết (trừ phím mũi tên trái)
 - Phím mũi tên trên, dưới để xoay vòng người trượt.
 - Phím mũi tên phải để điều hướng người trượt về phía trước.
+- Nút Space để bật cao.
 - Khi dụng các vách đá, người trượt sẽ phải xoay vòng để vượt qua.
 - Thời gian sống sót càng lâu, điểm sẽ càng cao.
 
