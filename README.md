@@ -1,6 +1,7 @@
 # PRULab2
  
 Thể loại game: thể thao
+
 Giới thiệu về game:
 Là game thể thao trượt tuyết và sẽ tính điểm bằng thời gian người trượt tuyết trượt cho tới khi người trượt ngã. Game sẽ lưu lại điểm cao nhất.
 
